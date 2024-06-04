@@ -31,9 +31,9 @@ This dataset contains only 3 csv file.
 ## 3. PROCESS  
 
 ### Tools Used  
-Microsoft Excel
-Microsoft SQL
-Tableau PC
+Microsoft Excel  
+Microsoft SQL  
+Power BI  
 
 
 
