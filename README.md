@@ -20,11 +20,8 @@ Stakeholder: Bruce Haryali (Atliq CEO)
 Further analysis & recommendations (Require additional research use secondary data)
 * Is there a correlation between postal votes% and voter turnout% ?
 * Is there a correlation between GDP votes% and voter turnout% ?
-
-
-
-
-
+* Is there any correlation between literacy% of a state and voter turnout% ?
+* Provide 3 recommendations on what the election commission/ goverment can do to increase the voter turnout% ?  
 
 ## 2. PREPARE  
 ### Data Storage  
