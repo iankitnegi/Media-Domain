@@ -43,7 +43,8 @@ This dataset contains only 3 csv file.
 dim_states_codes  
 constituency_wise_results_2014, constituency_wise_results_2019  
 
-### Data Cleaning & Transformation
+### Data Cleaning & Transformation  
+Microsoft Excel was used to clean and transform raw data.
 
 
 
