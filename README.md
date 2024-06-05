@@ -12,7 +12,14 @@ Stakeholder: Bruce Haryali (Atliq CEO)
 * Top 5 candidates based on margin difference with runners in 2014 and 2019?
 * %Split of voters of parties between 2014 vs 2019 at national level.
 * %Split of voters of parties between 2014 vs 2019 at state level.
-* 
+* List top 5 constituencies for two major national parties where they have gained vote share in 2019 as compared to 2014?
+* List top 5 constituencies for two major national parties where they have lost vote share in 2019 as compared to 2014?
+* Which constituency has voted the most for NOTA?
+* Which constituencies have elected candidates whose party has less than 10% vote share at state level in 2019?  
+
+Further analysis & recommendations (Require additional research use secondary data)
+* Is there a correlation between postal votes% and voter turnout% ?
+* Is there a correlation between GDP votes% and voter turnout% ?
 
 
 
@@ -31,9 +38,15 @@ This dataset contains only 3 csv file.
 ## 3. PROCESS  
 
 ### Tools Used  
-Microsoft Excel  
-Microsoft SQL  
-Power BI  
+* Microsoft Excel  
+* Microsoft SQL
+* Power BI  
+
+### Data Used  
+dim_states_codes  
+constituency_wise_results_2014, constituency_wise_results_2019  
+
+### Data Cleaning & Transformation
 
 
 
