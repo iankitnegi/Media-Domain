@@ -4,7 +4,7 @@ Atliq media is a private media company and they wanted to telecast a show on Lok
 ## 1. ASK  
 Stakeholder: Bruce Haryali (Atliq CEO)  
 
-### Questions  
+### Questions:  
 * List top 5/ bottom 5 constituencies of 2014 and 2019 in terms of voter turnout ratio?
 * List top 5/ bottom 5 states of 2014 and 2019 in terms of voter turnout ratio?
 * Which consistuencies have elected the same party for two consecutive elections, rank them by %votes to that winning party in 2019?
@@ -24,32 +24,32 @@ Further analysis & recommendations (Require additional research use secondary da
 * Provide 3 recommendations on what the election commission/ goverment can do to increase the voter turnout% ?  
 
 ## 2. PREPARE  
-### Data Storage  
+### Data Storage:  
 The public dataset is completely available on the Code basis website platform where it stores and consolidates all available datasets for analysis. The specific individual datasets at hand can be obtained at this link below: https://codebasics.io/challenge/codebasics-resume-project-challenge
 
 
-### Data Organized  
+### Data Organized:  
 The dataset is taken from the Election Commission of India. Thanks to the ECI for providing datasets for public access which is a great learning asset - feel free to explore them here. https://www.eci.gov.in/statistical-reports  
 This dataset contains only 3 csv file. 
 
 ## 3. PROCESS  
 
-### Tools Used  
+### Tools Used:  
 * Microsoft Excel  
 * Power BI  
 
-### Data Used  
+### Data Used:  
 dim_states_codes  
 constituency_wise_results_2014, constituency_wise_results_2019  
 
-### Data Cleaning & Transformation  
+### Data Cleaning & Transformation:  
 Microsoft Excel was used to clean and transform raw data.
 
 
 
 
 ## 4. ANALYZE  
-Key Metrics:  
+### Key Metrics:  
 * Voter Turnout Ratio: This metric represents the percentage of registered voters who actually cast their votes in an election. It is calculated by dividing the total number of votes cast (general votes plus postal votes) by the total number of registered electors in a constituency, and then multiplying by 100 to convert it into a percentage. This ratio is a crucial indicator of voter engagement and participation in the democratic process.  
 Voter Turnout Ratio = (Total Votes Cast / Total Electors)× 100%
 
