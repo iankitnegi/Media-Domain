@@ -50,10 +50,9 @@ Microsoft Excel was used to clean and transform raw data.
 
 ## 4. ANALYZE  
 Key Metrics:  
+* Voter Turnout Ratio: This metric represents the percentage of registered voters who actually cast their votes in an election. It is calculated by dividing the total number of votes cast (general votes plus postal votes) by the total number of registered electors in a constituency, and then multiplying by 100 to convert it into a percentage. This ratio is a crucial indicator of voter engagement and participation in the democratic process.  
+Voter Turnout Ratio = (Total Votes Cast / Total Electors)× 100%
 
-Voter Turnout Ratio: This metric represents the percentage of registered voters who actually cast their votes in an election. It is calculated by dividing the total number of votes cast (general votes plus postal votes) by the total number of registered electors in a constituency, and then multiplying by 100 to convert it into a percentage. This ratio is a crucial indicator of voter engagement and participation in the democratic process.  
-
-Voter Turnout Ratio = (Total Votes Cast / Total Electors)× 100%  
 
 6. SHARE
 7. ACT
