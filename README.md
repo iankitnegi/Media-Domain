@@ -36,7 +36,6 @@ This dataset contains only 3 csv file.
 
 ### Tools Used  
 * Microsoft Excel  
-* Microsoft SQL
 * Power BI  
 
 ### Data Used  
