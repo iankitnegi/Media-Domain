@@ -49,7 +49,7 @@ dim_states_codes:
 - abbreviation:  The abbreviation column lists the standard two-letter codes assigned to each state and union territory.
 
 constituency_wise_results_2014:
-- pc_name: Short for Parliamentary Constituency Name. This column identifies the specific electoral district within the state from which representatives are elected to the Lok Sabha.  
+- pc_name: pc_name also knows as "Parliamentary Constituency Name". This column identifies the specific electoral district within the state from which representatives are elected to the Lok Sabha.  
 - candidate: The name of the individual running for election. This is the person who is contesting in the election to become a Member of Parliament (MP).  
 - sex: The gender of the candidate. Typically denoted as 'M' for male and 'F' for female.  
 - age: The age of the candidate at the time of the election. This is given in full years.
